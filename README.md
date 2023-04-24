@@ -1,1 +1,10 @@
 # Software-Test-Automation
+
+## How can I ensure that my code, program, or software is functional and secure?
+> I can ensure that my work is functional secure by following the testing techniques I learned during this course. Through the different methods of testing, I will be able to incorporate a workflow that will benefit my work as an engineer. I believe that it will be important to build out tests that check to ensure that program requirements are met and do not negatively impact the project. I can ensure that I have thorough tests by making sure I have at least 80% coverage of my tests. This will help with the integrity of the requirements and the codebase. I look forward to also learning additional testing methods and testing frameworks to add an additional layer to the inegrity of my applications. 
+
+## How do I interpret user needs and incorporate them into a program?
+> I interpret user needs by specifically labeling the requirements and putting them into technical and non-technical requirement fields. Once this is established, I can then work on what kind of testing techniques I will need to ensure that this functionality works and can be tested on. The process starts by finding out what the solution will be, and then the focus can be on how do we ensure the solution continues to be the solution without anything breaking and by preventing any wrong doings to enter the system. 
+
+## How do I approach designing software?
+> I approach designing software by first laying out the requirements. I like to understand what solution(s) we are solving and what the vision is of the solution(s). This helps me look at a project and know what are must-haves and what are nice-to-haves. This distinction makes breaking up the work a lot easier because we are then able to focus on then what we start with and what kind of testing we can begin to design. Because pf my privacy background, I'm a strong advocate for "measuring twice and cutting once". What I mean by this statement is that I like building my projects the right way from the start by incorporating privacy, security, and now testing into my work. 
